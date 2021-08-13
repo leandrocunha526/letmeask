@@ -1,7 +1,7 @@
 # Letmeask
 
 <p align="center">
-<a href="https://github.com/leandrocunha526/letmeask/blob/main/LICENSE.md"><img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=00000"></a> <a href="https://github.com/leandrocunha526/letmeask/actions/workflows/continuous-integration.yml"><img src="https://github.com/leandrocunha526/letmeask/actions/workflows/continuous-integration.yml/badge.svg"></a> <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node-v14.17.4-brightgreen"></a> <a href="https://www.typescriptlang.org/"><img src="https://badges.aleen42.com/src/typescript.svg"></a> <a href="https://pt-br.reactjs.org/"> <img src="https://badges.aleen42.com/src/react.svg"></a>
+<a href="https://github.com/leandrocunha526/letmeask/blob/main/LICENSE.md"><img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=00000"></a> <a href="https://github.com/leandrocunha526/letmeask/actions/workflows/continuous-integration.yml"><img src="https://github.com/leandrocunha526/letmeask/actions/workflows/continuous-integration.yml/badge.svg"></a> <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node-v12.22.4-brightgreen"></a><a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node-v14.17.4-brightgreen"></a> <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node-v16.6.2-brightgreen"></a> <a href="https://www.typescriptlang.org/"><img src="https://badges.aleen42.com/src/typescript.svg"></a> <a href="https://pt-br.reactjs.org/"> <img src="https://badges.aleen42.com/src/react.svg"></a>
 </p>
 
 <h1 align="center">
